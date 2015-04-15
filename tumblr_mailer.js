@@ -18,7 +18,7 @@ function csvParse(csvTestFile){
 	emailAdd2 = "";
     commaCounter = 0;
 
-	for(var i = 54;i<csvTestFile.length+1;i++){
+	for(var i = 55;i<csvTestFile.length+1;i++){
 		//console.log(csvTestFile.length);
 		//console.log(commaCounter);
 		//console.log(i)
